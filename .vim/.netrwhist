@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/mjs/VAG/vagrant2/vagrant/hieradata'
+let g:netrw_dirhist_2='/home/mjs/VAG/vagrant2/vagrant/modules/puppetdb/manifests/server'
+let g:netrw_dirhist_3='/home/mjs/VAG/vagrant2/vagrant/hieradata/environment'
+let g:netrw_dirhist_4='/home/mjs/Downloads/puppet-mcollective-master/manifests/client'
+let g:netrw_dirhist_5='/home/mjs/jenkin-mod/lm_role_jenkins/manifests/master'

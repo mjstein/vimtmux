@@ -1,0 +1,6 @@
+pane	0	0	:vim	1	:*	0	:/home/despot/work/vag_test/modules/apache/templates/mod	1	vim	:vim passenger.conf.erb
+pane	0	0	:vim	1	:*	1	:/home/despot/work/work_board	0	vim	:/usr/bin/ruby2.2 /usr/local/bin/bundle
+vim app.rb
+pane	0	0	:vim	1	:*	2	:/home/despot/work/vag_test/data/role/puppetmaster	0	sudo	:sudo vagrant ssh
+window	0	0	1	:*	ed17,238x59,0,0[238x29,0,0{119x29,0,0,0,118x29,120,0,2},238x29,0,30,1]
+state	0	

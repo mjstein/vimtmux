@@ -1,0 +1,9 @@
+pane	0	0	:bash	0	:-	0	:/home/despot/work/vag_test/modules/apache/templates/mod	1	bash	:
+pane	0	0	:bash	0	:-	1	:/home/despot/work/vag_test/data/role/puppetmaster	0	bash	:
+pane	0	1	:vim	1	:*Z	0	:/home/despot/work/work_board	0	bash	:
+pane	0	1	:vim	1	:*Z	1	:/home/despot/work/example	1	vim	:vim lib/task.rb
+pane	0	1	:vim	1	:*Z	2	:/home/despot/work/work_board/views	0	vim	:vim add_message.erb
+pane	0	1	:vim	1	:*Z	3	:/home/despot/work/work_board	0	vim	:vim app.rb
+window	0	0	0	:-	1196,80x23,0,0[80x11,0,0,1,80x11,0,12,2]
+window	0	1	1	:*Z	8d33,80x23,0,0[80x11,0,0{40x11,0,0,3,39x11,41,0,6},80x11,0,12{40x11,0,12,4,39x11,41,12,5}]
+state	0	0

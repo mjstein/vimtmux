@@ -1,0 +1,6 @@
+pane	0	0	:ssh	1	:*	0	:/home/despot/work/vag_test/modules/apache/templates/mod	1	ssh	:ssh lm-dev-puppet001.dev.ams1.lmn.intra
+pane	0	0	:ssh	1	:*	1	:/home/despot/work/vag_test/modules/puppet/manifests	0	ssh	:ssh lm-dev-puppet001.dev.ams1.lmn.intra
+/usr/bin/ruby2.2 /usr/local/bin/bundle
+pane	0	0	:ssh	1	:*	2	:/home/despot/data	0	bash	:
+window	0	0	1	:*	1182,116x59,0,0[116x29,0,0{58x29,0,0,0,57x29,59,0,2},116x29,0,30,1]
+state	0	

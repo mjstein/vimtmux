@@ -1,0 +1,9 @@
+pane	0	0	:bash	0	:-	0	:/home/despot/work/vag_test/modules/apache/templates/mod	1	bash	:
+pane	0	0	:bash	0	:-	1	:/home/despot/work/vag_test/data/role/puppetmaster	0	bash	:
+pane	0	1	:vim	1	:*	0	:/home/despot/work/example	0	ruby2.2	:ruby2.2 /usr/local/bin/rackup
+pane	0	1	:vim	1	:*	1	:/home/despot/work/example/views	1	vim	:vim layout.erb
+pane	0	1	:vim	1	:*	2	:/home/despot/work/example	0	bash	:
+pane	0	1	:vim	1	:*	3	:/home/despot/work/example/lib	0	vim	:vim ../app.rb
+window	0	0	0	:-	b066,116x57,0,0[116x28,0,0,1,116x28,0,29,2]
+window	0	1	1	:*	fe2a,116x57,0,0{81x57,0,0[81x28,0,0,6,81x28,0,29,11],34x57,82,0[34x28,82,0,7,34x28,82,29,9]}
+state	0	0

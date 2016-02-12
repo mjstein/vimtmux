@@ -1,0 +1,4 @@
+/home/despot/work/vag_test/data/role	16
+/home/despot/Desktop/certs	57
+/home/despot/work/vag_test/modules/lm_role_glct	136
+/etc/ansible	77

@@ -1,0 +1,6 @@
+pane	0	0	:ruby2.2	1	:*	0	:/home/despot/work/vag_test/modules/apache/manifests	0	vim	:vim mod/passenger.pp
+pane	0	0	:ruby2.2	1	:*	1	:/home/despot/work/work_board	1	ruby2.2	:/usr/bin/ruby2.2 /usr/local/bin/bundle
+ruby2.2 /usr/local/bin/rackup
+pane	0	0	:ruby2.2	1	:*	2	:/home/despot/work/vag_test/data/role/puppetmaster	0	bash	:
+window	0	0	1	:*	ed17,238x59,0,0[238x29,0,0{119x29,0,0,0,118x29,120,0,2},238x29,0,30,1]
+state	0	
